@@ -1,0 +1,6 @@
+Django
+requests
+bs4
+flake8
+lxml
+emoji
